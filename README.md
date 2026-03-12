@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Fuhad 👋
 
-<!--
-**Fuhad015/Fuhad015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer and designer passionate about building great tools and visual experiences.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Up To
+* **Currently working on:** *The Odyssey* – a video-book documenting the "LEARN 2 EARN" journey (acting as Visual Artist & Social Media Director).
+* **Currently learning & practicing:** Go (Golang).
+* **When I'm not coding or designing:** You can probably catch me following football or exploring new AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Technologies
+* **Languages:** Go, [Add other languages like HTML/CSS/JS]
+* **Design:** Figma
+* **Version Control:** Git & GitHub
+
+### 📫 Let's Connect
+* [Your LinkedIn/Twitter/Portfolio link here]
