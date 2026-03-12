@@ -96,7 +96,7 @@ A robust fullstack platform where users can access personalized learning paths f
 <p align="center">
   <i>More projects coming soon! Stay tuned!</i>
 </p>
-
+<!-- 
 ## GitHub Stats
 
 <p align="center">
@@ -106,17 +106,17 @@ A robust fullstack platform where users can access personalized learning paths f
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fuhad015&hide_border=true&stroke=1976D2&background=ffffff&ring=1976D2&fire=1976D2&currstreak=1976D2&sideNums=1976D2&sideLabels=1976D2&dates=586C88&title=1976D2" alt="Fuhad's GitHub Streak" />
-</p>
+</p> -->
 
 ## Let's Connect!
 
 I'm always open to collaborating on interesting projects or discussing new opportunities. Feel free to reach out!
 
 <p align="left">
-  <a href="https://linkedin.com/in/adesanyafuhad" target="_blank">
+  <a href="https://www.linkedin.com/in/fuhad-adesanya-6664b7298/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:fuhadadesanya0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Fuhad015" target="_blank">
